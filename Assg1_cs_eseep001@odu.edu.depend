@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1663460092 source:c:\users\emily\documents\assg1_cs_eseep001@odu.edu\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<vector>
+	<string>
+
